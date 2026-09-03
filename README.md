@@ -1,3 +1,17 @@
+> **NOTE: This project is no longer maintained.**
+> 
+> This project was a hobby and my interests have changed 😅
+> 
+> Check out some of the nzbdav community forks:
+> * https://github.com/infinidysk/infinidysk
+> * https://github.com/qooode/nzbdavex
+>
+> And similar projects:
+> * https://github.com/javi11/altmount
+> * https://github.com/sirrobot01/decypharr
+
+-----
+
 <p align="center">
   <img width="1101" height="238" alt="image" src="https://github.com/user-attachments/assets/b14165f4-24ff-4abe-8af6-3ca852e781d4" />
 </p>
